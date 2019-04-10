@@ -7,9 +7,13 @@ This repository is to accompany my Motorized_MQTT_Blinds video:
 
 ## Parts List
 Stepper Motors: https://amzn.to/2D5rVsF
+
 Stepper Drivers: https://amzn.to/2OZqW1W
+
 NodeMCU: https://amzn.to/2I89xDF
+
 12V Power Supply: https://amzn.to/2G2ZJrf
+
 Buck Converter: https://amzn.to/2UsQ7jA
 
 ## 3D Printing
