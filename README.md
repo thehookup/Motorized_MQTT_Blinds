@@ -49,4 +49,10 @@ cover:
     position_open: 0
     position_closed: 12
   ```
+  
+## Recommended Tools
+
+Ender3 3d Printer: https://amzn.to/2GcznnZ
+Dupont Crimper and Connector Set: https://amzn.to/2X1Oeap
+
 ## Alexa only support (no hub required) coming soon
