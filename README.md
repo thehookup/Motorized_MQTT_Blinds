@@ -12,9 +12,13 @@ NodeMCU: https://amzn.to/2I89xDF
 12V Power Supply: https://amzn.to/2G2ZJrf
 Buck Converter: https://amzn.to/2UsQ7jA
 
+## 3D Printing
+
+Download the correct STL file for your style of tilt rod
+
 ## Wiring Schematic
 
-
+![alt text](https://github.com/thehookup/Motorized_MQTT_Blinds/blob/master/Schematic.jpg?raw=true)
 
 ## File setup
 
