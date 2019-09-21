@@ -24,6 +24,8 @@ Download the correct STL file for your style of tilt rod
 
 ![alt text](https://github.com/thehookup/Motorized_MQTT_Blinds/blob/master/Schematic.jpg?raw=true)
 
+**Dont forget to cut the center trace on the stepper motor as shown in the youtube video**
+
 ## File setup
 
 Fill out the entire USER CONFIGURATION section of the code.
