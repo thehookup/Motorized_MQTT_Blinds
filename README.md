@@ -58,4 +58,4 @@ Ender3 3d Printer: https://amzn.to/2GcznnZ
 
 Dupont Crimper and Connector Set: https://amzn.to/2X1Oeap
 
-## Alexa only support (no hub required) coming soon
+## Alexa only support available in the releases tab of this repo!
