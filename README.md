@@ -54,15 +54,17 @@ cover:
   
 ## Optional - PCB Design for 3 blind system
 
-Sender Board: https://github.com/thehookup/Motorized_MQTT_Blinds/blob/master/THU_Sender_Board.zip
+Project File: 
 
-Receiver Board: https://github.com/thehookup/Motorized_MQTT_Blinds/blob/master/THU_Receiver_Board.zip
+GERBER FILE:Sender Board: https://github.com/thehookup/Motorized_MQTT_Blinds/blob/master/THU_Sender_Board.zip
+
+GERBER FILE:Receiver Board: https://github.com/thehookup/Motorized_MQTT_Blinds/blob/master/THU_Receiver_Board.zip
 
 ## User Submitted PCBs
 
-Dave Morris Quad Blind: https://github.com/thehookup/Motorized_MQTT_Blinds/blob/master/Dave_Morris_4_Blind_With_Power.zip
+GERBER FILE: Dave Morris Quad Blind: https://github.com/thehookup/Motorized_MQTT_Blinds/blob/master/Dave_Morris_4_Blind_With_Power.zip
 
-Joshua Garrison Single Blind: https://github.com/thehookup/Motorized_MQTT_Blinds/blob/master/Joshua_Garrison_Single_Blind.zip
+GERBER FILE:Joshua Garrison Single Blind: https://github.com/thehookup/Motorized_MQTT_Blinds/blob/master/Joshua_Garrison_Single_Blind.zip
   
 ## Recommended Tools
 
