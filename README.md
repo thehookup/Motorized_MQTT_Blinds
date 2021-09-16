@@ -43,7 +43,6 @@ cover:
     command_topic: "BlindsMCU/blindsCommand"
     set_position_topic: "BlindsMCU/positionCommand"
     position_topic: "BlindsMCU/positionState"
-    state_topic: "BlindsMCU/positionState"
     retain: true
     payload_open: "OPEN"
     payload_close: "CLOSE"
