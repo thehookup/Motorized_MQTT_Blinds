@@ -36,6 +36,23 @@ You should leave "STEPS_TO_CLOSE" at 12 to start with.  It can be adjusted for y
 
 Replace "BlindsMCU" with your MQTT_CLIENT_ID if you changed it in the file setup
 
+Home Assistant 2022.7.5 and Later:
+```yaml
+mqtt:
+  cover:
+    - name: "BlindsKitchen"
+      command_topic: "BlindsMCU/blindsCommand"
+      position_topic: "BlindsMCU/positionState"
+      set_position_topic: "BlindsMCU/positionCommand"
+      retain: true
+      payload_open: "OPEN"
+      payload_close: "CLOSE"
+      payload_stop: "STOP"
+      position_open: 0
+      position_closed: 12
+
+Home Assistant 2022.6.5 and Earlier:
+
 ```yaml
 cover:
   - platform: mqtt
