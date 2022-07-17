@@ -50,6 +50,7 @@ mqtt:
       payload_stop: "STOP"
       position_open: 0
       position_closed: 12
+```
 
 Home Assistant 2022.6.5 and Earlier:
 
